@@ -1,0 +1,18 @@
+.top-container{
+	background-color:#708090;
+  font-family: Helvetica;
+
+	height:200px;
+}
+
+.middle-container{
+	background-color:#c0c0c0;
+	height:200px;
+  border: 20px;
+
+}
+.bottom-container{
+	background-color:#b0c4de;
+	height:200px;
+  border: 10px;
+}
